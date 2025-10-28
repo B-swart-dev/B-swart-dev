@@ -8,14 +8,6 @@ Currently exploring **SAP ABAP Cloud**, **SAP BTP**, and **Fiori/UI5** while str
 
 ---
 
-### 🧠 Tech Stack
-- **Languages:** Java, PHP, JavaScript, SQL, HTML, CSS  
-- **Frameworks:** Laravel, React  
-- **SAP:** ABAP Cloud, BTP, Fiori/UI5  
-- **Tools:** Git, GitHub, VS Code  
-
----
-
 ### 🧰 Languages and Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
