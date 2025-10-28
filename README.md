@@ -52,6 +52,4 @@ Currently exploring **SAP ABAP Cloud**, **SAP BTP**, and **Fiori/UI5** while str
 ---
 
 ### 📈 GitHub Stats
-> ![B. Swart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=b-swart-dev&show_icons=true&theme=tokyonight)
->
-> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b-swart-dev&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b-swart-dev&layout=compact&theme=tokyonight)
