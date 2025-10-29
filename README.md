@@ -26,11 +26,13 @@ Currently exploring **SAP ABAP Cloud**, **SAP BTP**, and **Fiori/UI5** while str
 
 ### 🚀 Current Focus
 - Building full-stack web applications  
-- Learning SAP’s cloud ecosystem  
+- Exploring SAP’s cloud ecosystem  
 - Experimenting with APIs and web integrations  
+- Refreshing and learning new skills  
 
 ### 🌱 Ongoing Learning
 - SAP ABAP Cloud & Fiori/UI5  
+- MERN stack (MongoDB, Express, React, Node.js)  
 - Laravel + React integration  
 - Secure and scalable web development  
 
