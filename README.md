@@ -50,6 +50,7 @@ My current focus is **full-stack development**, with an emphasis on **JavaScript
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -59,7 +60,7 @@ My current focus is **full-stack development**, with an emphasis on **JavaScript
 ---
 
 ## 🌱 Ongoing Learning
-- MERN stack (MongoDB, Express, React, Node.js)  
+- MERN stack (_**MongoDB**_, **_Express_**, **_React_**, **_Node.js_**)  
 - Laravel + React integration patterns  
 - Secure authentication and authorization  
 - Writing cleaner, more maintainable code  
