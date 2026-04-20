@@ -29,17 +29,54 @@ My current focus is **full-stack development**, with an emphasis on **JavaScript
 <summary><strong>My Projects</strong></summary>
 
 * 🧮 **Calculator Application**
-  Java Swing desktop calculator with memory functions and keyboard input
+  
+  > Java Swing desktop calculator with memory functions and keyboard input
   
   🔗 https://github.com/B-swart-dev/Calculator
 
-</details>
+* 🚸 **Data Day Care**
+  
+  > Java Swing desktop calculator with memory functions and keyboard input
+  
+  🔗 https://github.com/B-swart-dev/DataDayCare
 
+  * 🎟️ **Entrance Fee**
+  
+  > Java Swing desktop calculator with memory functions and keyboard input
+  
+  🔗 https://github.com/B-swart-dev/Entrance-Fee
+
+  * 👔 **Business Conference Attendance Register**
+  
+  > Java Swing desktop calculator with memory functions and keyboard input
+  
+  🔗 https://github.com/B-swart-dev/Conference-Attendance
+
+  * 🧱 **Use Building Material**
+  
+  > Java Swing desktop calculator with memory functions and keyboard input
+  
+  🔗  https://github.com/B-swart-dev/Building-Material
+</details>
+<details><summary>School Projects</summary>
+ * 🧮 **Recursion**
+  
+  > Java Swing desktop calculator with memory functions and keyboard input
+  
+  🔗 https://github.com/B-swart-dev/Recursion
+
+  * 🧮 **SentinelNumber**
+  
+  > Java Swing desktop calculator with memory functions and keyboard input
+  
+  🔗 https://github.com/B-swart-dev/SentinelNumber
+</details>
 ---
 
 ### 🚀 Java 17 (Modern Development)
 
 ![Java 17](https://img.shields.io/badge/Java-17-007396?style=for-the-badge\&logo=java\&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 
 <details>
@@ -57,22 +94,35 @@ My current focus is **full-stack development**, with an emphasis on **JavaScript
 
 ### 🌐 PHP / Web Development
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 <details>
 <summary><strong>My Projects</strong></summary>
+  
+* 🎵 **Musicology-Warehouse**
+
+  > A music shop and inventory control application
+  
+  🔗 https://github.com/B-swart-dev/Musicology-Warehouse
+
+* 📚 **Library System**
+
+  > Library system application, keep track of books, students and more.
+
+  🔗 https://github.com/B-swart-dev/Library-System
 
 * 🏠 **Property Listing Website**
-  Dynamic property listings with carousel, modals, and scraped data
-  🔗 https://github.com/YOUR-REPO
+
+  > Dynamic property listings with carousel, modals, and scraped data
+  
 
 * 🔑 **Login System with Role Management** *(In Progress)*
-  Secure authentication system with company-based roles and permissions
 
+  > Secure authentication system with company-based roles and permissions
 </details>
 
 ---
