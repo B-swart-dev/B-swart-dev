@@ -90,7 +90,6 @@ My current focus is **full-stack development**, with an emphasis on **JavaScript
 ### Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
 
@@ -111,13 +110,12 @@ My current focus is **full-stack development**, with an emphasis on **JavaScript
 ## 🌱 Ongoing Learning
 
 * MERN stack (**MongoDB**, **Express**, **React**, **Node.js**)
-* Laravel + React integration patterns
 * Secure authentication and authorization
 * Writing cleaner, more maintainable code
 
 <details>
 <summary><strong>Additional Exploration</strong></summary>
-
+* Laravel + React integration patterns
 * SAP Cloud ecosystem
 * SAP ABAP Cloud
 * Fiori / UI5 fundamentals
