@@ -19,16 +19,46 @@ My current focus is **full-stack development**, with an emphasis on **JavaScript
 
 ## 🧩 Featured Projects
 
-### 🚧 UNDER CONSTRUCTION 🚧
+<details>
+<summary>☕ Java 8 (Foundations)</summary>
 
- [  CODE IN PROGRESS  ]
+![Java 8](https://img.shields.io/badge/Java-8-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![NetBeans](https://img.shields.io/badge/IDE-NetBeans-1B6AC6?style=for-the-badge)
 
-    (⌐■_■)
-    <)   )╯  ← writing bugs
-     /   \
-- Projects are currently being built, broken, fixed, refactored, and occasionally rewritten.
+- 🧮 **Calculator Application**  
+  Java Swing desktop calculator with memory functions and keyboard input  
+  🔗 https://github.com/B-swart-dev/Calculator  
 
-> 🚀 **Coming soon:** real-world projects showcasing full-stack development, clean architecture, and practical problem-solving.
+</details>
+---
+
+### 🚀 Java 17 (Modern Development)
+
+![Java 17](https://img.shields.io/badge/Java-17-007396?style=for-the-badge\&logo=java\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+
+* 🔐 **User Authentication API** *(Planned / In Progress)*
+  REST API with JWT authentication, role-based access, and PostgreSQL
+
+* 📦 **Inventory Management System** *(Planned)*
+  Backend system for managing stock, orders, and users
+
+---
+
+### 🌐 PHP / Web Development
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+* 🏠 **Property Listing Website**
+  Dynamic property listings with carousel, modals, and scraped data
+  🔗 https://github.com/YOUR-REPO
+
+* 🔑 **Login System with Role Management** *(In Progress)*
+  Secure authentication system with company-based roles and permissions
 
 ---
 
@@ -43,7 +73,6 @@ My current focus is **full-stack development**, with an emphasis on **JavaScript
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
