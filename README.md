@@ -1,16 +1,48 @@
 # 👋 Hi, I'm Braam Swart
 
 🎓 **Diploma in Systems Development**
-💻 **Junior / Aspiring Full-Stack Web Developer**
+💻 **Junior / Aspiring Full-Stack Developer**
 
-I’m a motivated developer with a strong interest in building practical, real-world web applications. I enjoy problem-solving, learning new technologies, and continuously improving my development skills through hands-on projects.
+I’m a motivated developer with a strong interest in building practical, real-world applications both in web and offline. I enjoy problem-solving, learning new technologies, and continuously improving my development skills through hands-on projects.
 
-My current focus is **full-stack development**, with an emphasis on **JavaScript** and **React** for the frontend, while strengthening my backend skills with **Laravel** and **Node.js**. I actively experiment with development environments using tools like **Docker** and virtual machines to better understand deployment, isolation, and scalability.
+My current focus is **Full-Stack Web Development** and **Java Development**, with an emphasis on **JavaScript** and **React** for the frontend, while strengthening my backend skills with **Java** and **Node.js**. I actively experiment with development environments using tools like **Docker** and virtual machines to better understand deployment, isolation, and scalability.
+
+---
+
+## 🧰 Languages & Tools
+
+### Languages
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-07405e?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+### Tools & Platforms
+
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![NetBeans](https://img.shields.io/badge/IDE-NetBeans-1B6AC6?style=for-the-badge)
 
 ---
 
 ## 🚀 Current Focus
-
+* Java Development
+* Python
 * Building full-stack web applications from scratch
 * Developing modern, component-based UIs with React
 * Working with REST APIs and backend integrations
@@ -26,7 +58,7 @@ My current focus is **full-stack development**, with an emphasis on **JavaScript
 ![NetBeans](https://img.shields.io/badge/IDE-NetBeans-1B6AC6?style=for-the-badge)
 
 <details>
-<summary><strong>My Projects</strong></summary>
+<summary><strong>School Projects</strong></summary>
 
 * 🧮 **Calculator Application**
   
@@ -57,9 +89,8 @@ My current focus is **full-stack development**, with an emphasis on **JavaScript
   > Java Swing desktop calculator with memory functions and keyboard input
   
   🔗  https://github.com/B-swart-dev/Building-Material
-</details>
-<details><summary>School Projects</summary>
- * 🧮 **Recursion**
+
+  * 🧮 **Recursion**
   
   > Java Swing desktop calculator with memory functions and keyboard input
   
@@ -70,6 +101,14 @@ My current focus is **full-stack development**, with an emphasis on **JavaScript
   > Java Swing desktop calculator with memory functions and keyboard input
   
   🔗 https://github.com/B-swart-dev/SentinelNumber
+</details>
+<details><summary>Personal Projects</summary>
+  
+  * 🎮 **Apex Autoexec Generator**
+  
+  > Java Swing Application making use of textfile generation
+  
+  🔗 https://github.com/B-swart-dev/ApexAutoexect
 </details>
 ---
 
@@ -127,36 +166,6 @@ My current focus is **full-stack development**, with an emphasis on **JavaScript
 
 ---
 
-## 🧰 Languages & Tools
-
-### Languages
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
-### Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-07405e?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-### Tools & Platforms
-
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
----
-
 ## 🌱 Ongoing Learning
 
 * MERN stack (**MongoDB**, **Express**, **React**, **Node.js**)
@@ -165,7 +174,7 @@ My current focus is **full-stack development**, with an emphasis on **JavaScript
 
 <details>
 <summary><strong>Additional Exploration</strong></summary>
-* Laravel + React integration patterns
+* PhP Laravel + React integration patterns
 * SAP Cloud ecosystem
 * SAP ABAP Cloud
 * Fiori / UI5 fundamentals
