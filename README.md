@@ -104,7 +104,7 @@ I’m currently transitioning into modern backend development using Java 17 and 
 </details>
 
 <details>
-<summary>Personal Projects</summary>
+<summary>My Projects</summary>
   
 * 🎮 **Apex Autoexec Generator**
   
