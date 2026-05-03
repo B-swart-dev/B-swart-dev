@@ -54,62 +54,67 @@ My current focus is **Full-Stack Web Development** and **Java Development**, wit
 
 ### ☕ Java 8 (Foundations)
 
-![Java 8](https://img.shields.io/badge/Java-8-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Java 8](https://img.shields.io/badge/Java-8-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/IDE-NetBeans-1B6AC6?style=for-the-badge)
 
 <details>
-<summary><strong>School Projects</strong></summary>
+<summary><strong>University Projects</strong></summary>
 
 * 🧮 **Calculator Application**
   
-  > Java Swing desktop calculator with memory functions and keyboard input
+  > Java Swing calculator supporting basic operations, keyboard input, and memory functions
   
   🔗 https://github.com/B-swart-dev/Calculator
 
 * 🚸 **Data Day Care**
   
-  > Java Swing desktop calculator with memory functions and keyboard input
+  > Desktop form application for capturing child and guardian enrolment details with validation and file storage
   
   🔗 https://github.com/B-swart-dev/DataDayCare
 
-  * 🎟️ **Entrance Fee**
+* 🎟️ **Entrance Fee**
   
-  > Java Swing desktop calculator with memory functions and keyboard input
+  > Age-based fee calculator with input validation and conditional pricing logic
   
   🔗 https://github.com/B-swart-dev/Entrance-Fee
 
-  * 👔 **Business Conference Attendance Register**
+* 👔 **Business Conference Attendance Register**
   
-  > Java Swing desktop calculator with memory functions and keyboard input
+  > Java Swing + MySQL application for capturing and viewing attendee records using JDBC
   
   🔗 https://github.com/B-swart-dev/Conference-Attendance
 
-  * 🧱 **Use Building Material**
+* 🧱 **Use Building Material**
   
-  > Java Swing desktop calculator with memory functions and keyboard input
+  > Terminal-based application using OOP (inheritance & abstraction) to calculate building material costs
   
-  🔗  https://github.com/B-swart-dev/Building-Material
+  🔗 https://github.com/B-swart-dev/Building-Material
 
-  * 🧮 **Recursion**
+* 🔁 **Recursion**
   
-  > Java Swing desktop calculator with memory functions and keyboard input
+  > Demonstrates recursion by calculating the sum of numbers from 1 to n with input validation
   
   🔗 https://github.com/B-swart-dev/Recursion
 
-  * 🧮 **SentinelNumber**
+* 🔢 **Sentinel Number**
   
-  > Java Swing desktop calculator with memory functions and keyboard input
+  > Demonstrates sentinel-controlled loops by collecting user input until a termination condition is met
   
   🔗 https://github.com/B-swart-dev/SentinelNumber
+
 </details>
-<details><summary>Personal Projects</summary>
+
+<details>
+<summary>Personal Projects</summary>
   
-  * 🎮 **Apex Autoexec Generator**
+* 🎮 **Apex Autoexec Generator**
   
-  > Java Swing Application making use of textfile generation
+  > Java Swing tool for generating and editing game configuration (.cfg) files for performance and keybind customization
   
   🔗 https://github.com/B-swart-dev/ApexAutoexect
+
 </details>
+
 ---
 
 ### 🚀 Java 17 (Modern Development)
