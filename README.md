@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Braam Swart
 
-🎓 **Diploma in Systems Development**
-💻 **Junior / Aspiring Full-Stack Developer**
+#### 💻 **Junior / Aspiring Full-Stack Developer** *|* 🎓 **Diploma in Systems Development**
 
-I’m a motivated developer with a strong interest in building practical, real-world applications both in web and offline. I enjoy problem-solving, learning new technologies, and continuously improving my development skills through hands-on projects.
+I’m a junior developer focused on building practical applications across web and backend systems. My experience includes Java (Swing & JDBC), full-stack web development, and working with databases.
 
-My current focus is **Full-Stack Web Development** and **Java Development**, with an emphasis on **JavaScript** and **React** for the frontend, while strengthening my backend skills with **Java** and **Node.js**. I actively experiment with development environments using tools like **Docker** and virtual machines to better understand deployment, isolation, and scalability.
+I’m currently transitioning into modern backend development using Java 17 and Spring Boot, while continuing to strengthen my frontend skills with React.
 
 ---
 
@@ -42,7 +41,7 @@ My current focus is **Full-Stack Web Development** and **Java Development**, wit
 
 ## 🚀 Current Focus
 * Java Development
-* Python
+* Python (PCEP & PCAP)
 * Building full-stack web applications from scratch
 * Developing modern, component-based UIs with React
 * Working with REST APIs and backend integrations
@@ -145,7 +144,7 @@ My current focus is **Full-Stack Web Development** and **Java Development**, wit
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 <details>
-<summary><strong>My Projects</strong></summary>
+<summary><strong>University Projects</strong></summary>
   
 * 🎵 **Musicology-Warehouse**
 
@@ -158,15 +157,21 @@ My current focus is **Full-Stack Web Development** and **Java Development**, wit
   > Library system application, keep track of books, students and more.
 
   🔗 https://github.com/B-swart-dev/Library-System
+  
+</details>
 
-* 🏠 **Property Listing Website**
+<details>
+  <summary>My Projects</summary>
+  
+  * 🏠 **Property Listing Website** *(In Progress)*
 
-  > Dynamic property listings with carousel, modals, and scraped data
+    > Dynamic property listings with carousel, modals, and scraped data
   
 
-* 🔑 **Login System with Role Management** *(In Progress)*
-
-  > Secure authentication system with company-based roles and permissions
+  * 🔑 **Login System with Role Management** *(In Progress)*
+  
+    > Secure authentication system with company-based roles and permissions
+  
 </details>
 
 ---
@@ -174,11 +179,13 @@ My current focus is **Full-Stack Web Development** and **Java Development**, wit
 ## 🌱 Ongoing Learning
 
 * MERN stack (**MongoDB**, **Express**, **React**, **Node.js**)
+* Java 17 (Revising Foundations, Springboot & Kafka)
 * Secure authentication and authorization
 * Writing cleaner, more maintainable code
 
 <details>
 <summary><strong>Additional Exploration</strong></summary>
+  
 * PhP Laravel + React integration patterns
 * SAP Cloud ecosystem
 * SAP ABAP Cloud
